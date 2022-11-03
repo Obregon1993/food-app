@@ -7,7 +7,7 @@ const Header = (props) => {
     return (
         <React.Fragment>
             <header className={classes.header}>
-                <h1>Meals</h1>
+                <h1>Bon Appetit</h1>
                 <HeaderCartButton />
             </header>
             <div className={classes['main-image']}>
